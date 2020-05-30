@@ -1,0 +1,5 @@
+[dvd]
+name=dvd
+baseurl=file:///dvd
+enabled=1
+gpgcheck=0
